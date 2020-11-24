@@ -1,0 +1,25 @@
+.body-background{
+    background-image: url("avenger_bg\ \(1\).jpg");
+    background-position: center;
+    background-size: cover;
+}
+h2{
+   width:fit-content;  
+   height: fit-content;
+    color: whitesmoke;
+    font-weight: bold;
+    border-radius: 10px;
+}
+#head_info
+{
+    width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+canvas{
+    border-style: ridge;
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+

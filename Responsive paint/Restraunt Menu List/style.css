@@ -1,0 +1,33 @@
+button{
+    border-top-color:#ff1100 ;
+    border-right-color:#00ff00 ;
+    border-bottom-color:#35e7ff ;
+    border-left-color:#610606 ;
+    margin: 10px;
+}
+
+input{
+    border-left-color:#ff1100 ;
+    border-bottom-color:#00ff00 ;
+    border-right-color:#35e7ff ;
+    border-top-color:#610606 ;
+    margin: 10px;
+}
+
+.line{
+    background-color: aqua;
+    height: 7px;
+    width: 150px;
+}
+
+#contents{
+    border-style: solid;
+    border-left-color:#ff1100 ;
+    border-bottom-color:#00ff00 ;
+    border-right-color:#35e7ff ;
+    border-top-color:#610606 ;
+    margin: 10px;
+    width: fit-content;
+  
+
+}
